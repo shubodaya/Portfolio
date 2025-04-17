@@ -1,3 +1,4 @@
+![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
 # 🌟 Shubodaya's 3D Interactive Portfolio
 
 Welcome to my **3D Interactive Portfolio**! This website isn’t just a digital resume—it's an immersive journey through my skills, passions, and creative endeavors. With **interactive 3D models**, a **dynamic interface**, and engaging animations, this site showcases my expertise in both **design** and **development**.
